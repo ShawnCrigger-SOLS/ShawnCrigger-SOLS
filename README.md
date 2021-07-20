@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShawnCrigger-SOLS
 - 👀 I’m interested in dogs, hiking, coding, all things tech.
 - 🌱 I’m currently learning the new features of PHP 8 and more JavaScript.
-- 📫 How to reach me [Biolink](https://shawnc.bio.link/)
+- 📫 How to reach me my [Biolink](https://shawnc.bio.link/)
 
 A Software Engineer specializing in PHP, JavaScript technologies. Professional experience with the technologies listed in the toolbox below.
 
